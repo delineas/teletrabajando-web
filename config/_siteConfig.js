@@ -15,7 +15,7 @@ export default {
   logo: '/teletrabajando-logo.svg', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
-    id: 'UA-269650-17'
+    id: 'UA-269650-18'
   },
   mainMenu: [
     {
