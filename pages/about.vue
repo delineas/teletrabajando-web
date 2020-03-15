@@ -35,6 +35,9 @@
           <p>
             Soy <a href="https://www.danielprimo.io/">Daniel Primo</a>, programador web y formador. Puedes escucharme en Web Reactiva todos los martes y leerme en La Selecta Newsletter cada domingo.
           </p>
+          <p>
+            Llevo teletrabajando más de 12 años, con lo que creo que puedo aportar algo de conocimiento a la causa. Eso si, todo son opiniones personales :)
+          </p>
         </div>
 
       </template>
