@@ -1,6 +1,6 @@
 <template>
   <footer class="site-footer">
-    {{ $siteConfig.siteName }} {{ new Date().getFullYear() }} 
+    Sigue las actualizaciones de este sitio en <a href="https://twitter.com/delineas">@delineas</a>
     <br />
     Hecho con <span style="color: #e25555;">&#9829;</span> por <a href="https://www.danielprimo.io/">danielprimo.io</a> con <a href="https://github.com/danielkellyio/awake-template">Awake template</a>, Nuxt.js y
     Netlify

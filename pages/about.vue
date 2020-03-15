@@ -10,7 +10,10 @@
         <div class="content">
           <h3>El origen</h3>
           <p>
-            La pandemia del COVID-19 situa a la humanidad en un punto crítico. A partir del confinamiento en los hogares para evitar la expansión del virus surge la necesidad de seguir trabajando en remoto. Muchas personas aterrizan en este formato forzadas por la situación. Este lsitado trata de ser un bálsamo para el primer aterrizaje.
+            La pandemia del COVID-19 situa a la humanidad en un punto crítico. A partir del confinamiento en los hogares para evitar la expansión del virus surge la necesidad de seguir trabajando en remoto. Muchas personas aterrizan en este formato forzadas por la situación. Este listado trata de ser un bálsamo para el primer aterrizaje.
+          </p>
+          <p>
+            Todo surgió redactando el envío <a href="https://mailchi.mp/30e7b20d6fd8/la-selecta-2884538">106 del newsletter</a> y los comentarios de los lectores previos y posteriores a ese momento.
           </p>
 
           <h3>Participa tu también</h3>
