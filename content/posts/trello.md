@@ -1,6 +1,5 @@
 ---
-title: Trello
-subtitle: Gestión de tareas para todos los públicos
+title: Trello, gestión de tareas para todos los públicos
 category:
   - Teletrabajando
 author: Dani
@@ -21,7 +20,7 @@ No puedo hacer un *ping* a los compañeros para ver como lo llevan pasando por s
 
 Las tareas se convierten en **tarjetas** con título, descripción y comentarios.
 
-Se agrupan en listas, que aquí son columnas. 
+Se agrupan en listas, que aquí son columnas.
 
 Cada columna es una línea de **estados**: Pendiente, Haciendo, Revisando, Hecho.
 
