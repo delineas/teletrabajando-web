@@ -4,7 +4,7 @@ category:
   - Teletrabajando
 author: Dani
 date: 2020-03-15T00:27:56.800Z
-featureImage: /uploads/candid-at-home.jpg
+featureImage: /uploads/malaysia-klia-2-2018-04-03-airport-information-board-near-the-clock-with-hands-that-shows-four_t20_1b3g1Y.jpg
 ---
 
 # Pijama si, pijama no
