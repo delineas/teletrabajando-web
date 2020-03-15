@@ -52,8 +52,7 @@ import PostSidebar from '~/components/PostSidebar'
 export default {
   components: {
     Markdown,
-    PostSidebar,
-    Notification
+    PostSidebar
   },
   computed: {
     ...mapState([
