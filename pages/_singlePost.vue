@@ -15,7 +15,7 @@
       <template v-slot:default>
         <div class="post-wrapper">
           <markdown :markdown="$store.state.content" />
-          <article class="message is-danger">
+          <article class="message is-warning">
             <div class="message-header">
               <p>¿Quieres añadir tu experiencia con esta herramienta?</p>
             </div>
