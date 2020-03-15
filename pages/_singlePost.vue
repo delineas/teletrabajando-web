@@ -20,8 +20,8 @@
               <p>¿Quieres añadir tu experiencia con esta herramienta?</p>
             </div>
             <div class="message-body">
-              Entra en el repo y envía una issue:
-              <a href="https://github.com/delineas/teletrabajando-web"
+              Entra este proyecto de Github y envía una issue:
+              <a href="https://github.com/delineas/teletrabajando-web/issues"
                 >teletrabajando-web</a
               >
             </div>

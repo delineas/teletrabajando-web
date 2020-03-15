@@ -23,8 +23,8 @@ export default {
       link: '/about'
     },
     {
-      name: 'Github Repo',
-      link: 'https://github.com/delineas/teletrabajando-web',
+      name: 'Contacto',
+      link: 'https://www.danielprimo.io/contacto',
       target: '_blank'
     }
   ],
