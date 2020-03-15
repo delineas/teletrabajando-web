@@ -15,9 +15,20 @@
       <template v-slot:default>
         <div class="post-wrapper">
           <markdown :markdown="$store.state.content" />
+          <article class="message is-danger">
+            <div class="message-header">
+              <p>¿Quieres añadir tu experiencia con esta herramienta?</p>
+            </div>
+            <div class="message-body">
+              Entra en el repo y envía una issue:
+              <a href="https://github.com/delineas/teletrabajando-web"
+                >teletrabajando-web</a
+              >
+            </div>
+          </article>
           <div class="other-posts">
             <h6 class="subtitle is-size-4">
-              Related Posts
+              Relacionado
             </h6>
             <!-- Related Posts -->
             <posts-grid :number="3" :category="category" :exclude="slug" />
@@ -37,10 +48,12 @@ import { setPageData, getFormattedDate } from '../helper'
 // import 'highlight.js/styles/github.css'
 import Markdown from '~/components/Markdown'
 import PostSidebar from '~/components/PostSidebar'
+
 export default {
   components: {
     Markdown,
-    PostSidebar
+    PostSidebar,
+    Notification
   },
   computed: {
     ...mapState([

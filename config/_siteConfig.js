@@ -9,35 +9,22 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
-  featureImage: '/uploads/home-hero.jpg',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  siteName: 'teletrabajando',
+  tagline: 'Recursos de teletrabajo con comentarios personales',
+  featureImage: '/uploads/candid-at-home.jpg',
+  logo: '/teletrabajando-logo.svg', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
   },
   mainMenu: [
     {
-      name: 'About',
+      name: '¿Qué es esto?',
       link: '/about'
     },
     {
-      name: 'Contact',
-      link: '/contact'
-    },
-    {
-      name: 'Categories',
-      link: '/categories'
-    },
-    {
       name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
+      link: 'https://github.com/delineas/teletrabajando-web',
       target: '_blank'
     }
   ],
@@ -59,9 +46,9 @@ export default {
 
   // Disqus
   disqus: {
-    on: false,
+    on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    siteShortName: 'teletrabajando' // 'blog-danielkelly-io'
   },
 
   // Newsletter Subscribe
@@ -95,9 +82,9 @@ export default {
     on: true,
     theme: null, // See card.theme (can be unique for posts if set here)
     imageDimensions: null, // See card.imageDimensions (can be unique for posts if set here)
-    displayAuthor: true,
+    displayAuthor: false,
     date: {
-      display: true
+      display: false
     },
     perRow: 3,
     perPage: 6

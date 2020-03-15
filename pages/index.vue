@@ -1,7 +1,6 @@
 <template>
   <div id="home-page" class="page-wrapper home-page">
     <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
-      hola
     </site-hero>
     <main-section theme="one-column">
       <template v-slot:default>

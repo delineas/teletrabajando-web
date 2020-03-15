@@ -1,9 +1,8 @@
 <template>
   <footer class="site-footer">
-    {{ $siteConfig.siteName }} &copy; {{ new Date().getFullYear() }} - All
-    Rights Reserved
+    {{ $siteConfig.siteName }} {{ new Date().getFullYear() }} 
     <br />
-    Made with <span style="color: #e25555;">&#9829;</span> with Nuxt.js and
+    Hecho con <span style="color: #e25555;">&#9829;</span> por <a href="https://www.danielprimo.io/">danielprimo.io</a> con <a href="https://github.com/danielkellyio/awake-template">Awake template</a>, Nuxt.js y
     Netlify
   </footer>
 </template>
