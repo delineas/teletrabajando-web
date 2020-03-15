@@ -37,7 +37,7 @@ export default {
         {
           hid: 'og:image',
           property: 'og:image',
-          content: this.$store.state.featureImage
+          content: `https://teletrabajando.webreactiva.com/_nuxt${this.$store.state.featureImage}`
         },
         {
           hid: 'og:url',

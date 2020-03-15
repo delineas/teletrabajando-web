@@ -22,7 +22,14 @@ export default {
   name: 'HomePage',
   head() {
     return {
-      title: `${this.$siteConfig.siteName}`
+      title: `${this.$siteConfig.siteName}`,
+      meta: [
+        {
+          hid: 'og:image',
+          property: 'og:image',
+          content: `https://teletrabajando.webreactiva.com/teletrabajando-cover.png`
+        }
+      ]
     }
   },
   computed: {
