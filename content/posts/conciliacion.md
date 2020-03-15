@@ -4,7 +4,7 @@ category:
   - Teletrabajando
 author: Dani
 date: 2020-03-15T00:27:56.800Z
-featureImage: /uploads/candid-at-home.jpg
+featureImage: /uploads/ZGQe7x_t20_ZVl63a.jpg
 ---
 
 #Conciliación familiar y teletrabajo

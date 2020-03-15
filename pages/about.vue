@@ -9,6 +9,7 @@
       <template v-slot:default>
         <div class="content">
           <h3>El origen</h3>
+          <img src="/daniel-primo-perfil-2.jpg" class="image media-left is-pulled-right" style="max-width: 30%">
           <p>
             La pandemia del COVID-19 situa a la humanidad en un punto crítico. A partir del confinamiento en los hogares para evitar la expansión del virus surge la necesidad de seguir trabajando en remoto. Muchas personas aterrizan en este formato forzadas por la situación. Este listado trata de ser un bálsamo para el primer aterrizaje.
           </p>
