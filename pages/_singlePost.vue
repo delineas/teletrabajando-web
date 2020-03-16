@@ -17,7 +17,7 @@
           <markdown :markdown="$store.state.content" />
           <article class="message is-warning">
             <div class="message-header">
-              <p>¿Quieres añadir tu experiencia con esta herramienta?</p>
+              <p>¿Quieres añadir algo más?</p>
             </div>
             <div class="message-body">
               Entra este proyecto de Github y envía una issue:
