@@ -47,7 +47,7 @@ Bueno, más bien a la puerta del frigorífico.
 
 
 
-##El horario, también para alimentarse
+## El horario, también para alimentarse
 
 Lo mejor de todo es establecerse también un esquema de comidas y cenas.
 
