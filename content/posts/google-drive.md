@@ -3,7 +3,7 @@ title: Google Drive, tus datos en la nube
 category:
   - Teletrabajando
 author: Dani
-date: 2020-03-15T00:27:56.800Z
+date: 2020-03-15T21:27:56.800Z
 featureImage: /uploads/tt-google-drive.png
 ---
 

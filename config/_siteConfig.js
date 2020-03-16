@@ -23,6 +23,11 @@ export default {
       link: '/about'
     },
     {
+      name: '260 recursos gratis',
+      link: 'https://www.danielprimo.io/newsletter',
+      target: '_blank'
+    },
+    {
       name: 'Contacto',
       link: 'https://www.danielprimo.io/contacto',
       target: '_blank'
