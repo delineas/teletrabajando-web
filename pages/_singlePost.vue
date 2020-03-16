@@ -54,6 +54,17 @@ export default {
     Markdown,
     PostSidebar
   },
+  head() {
+    return {
+      meta: [
+        {
+          hid: 'og:image',
+          property: 'og:image',
+          content: `https://teletrabajando.webreactiva.com${this.responsiveImage}`
+        }
+      ]
+    }
+  },
   computed: {
     ...mapState([
       'title',
@@ -69,7 +80,13 @@ export default {
     },
     url() {
       return `${process.env.URL}/${this.$route.fullPath}`
-    }
+    },
+    responsiveImage() {
+      if (this.featureImage.indexOf('/uploads') === 0) {
+        return require(`~/assets${this.featureImage}`)
+      }
+      return { src: this.featureImage, srcSet: '' }
+    },
   },
   fetch({ store, params }) {
     setPageData(store, { resource: 'post', slug: params.singlePost })

@@ -7,7 +7,7 @@ date: 2020-03-16T00:27:56.800Z
 featureImage: /uploads/cat-looking.jpg
 ---
 
-#La nevera llena y yo tan despistado
+# La nevera llena y yo tan despistado
 
 Una de las cosas que te pasarán si acabas de aterrizar en el teletrabajo es que las horas se te hagan largas.,
 
