@@ -17,13 +17,10 @@
           <markdown :markdown="$store.state.content" />
           <article class="message is-warning">
             <div class="message-header">
-              <p>¿Quieres añadir algo más?</p>
+              <p>¿Quieres participar en teletrabajando con tus artículos?</p>
             </div>
             <div class="message-body">
-              Entra este proyecto de Github y envía una issue:
-              <a href="https://github.com/delineas/teletrabajando-web/issues"
-                >teletrabajando-web</a
-              >
+              <a href="https://www.danielprimo.io/contacto">Escríbeme con tu propuesta :)</a>
             </div>
           </article>
           <div class="other-posts">
